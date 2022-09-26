@@ -17,4 +17,4 @@ Tutor: Brais Cancela Barizo
 ![CovidTracker-3](https://user-images.githubusercontent.com/62699694/192222132-cde926a5-0870-4373-ba65-a7f5da440ca5.png)
 ![CovidTracker-4](https://user-images.githubusercontent.com/62699694/192222133-2ea4fd8b-c0ca-4f2e-b617-8ca73e6ecf78.png)
 
--GTK Theme is KDE Plasma 5's "Breeze"
+*GTK Theme is KDE Plasma 5's "Breeze"
