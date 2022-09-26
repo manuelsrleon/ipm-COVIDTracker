@@ -7,8 +7,8 @@ The Hasura (GraphQL) backend was provided to us by Noelia Barreira Rodríguez (n
 
 #### Co-authors
 - David Franco Orol
-- Daniel Vicente Ramos
-Tutor: Brais Cancela Barizo
+- Daniel Vicente Ramos 
+Professor: Brais Cancela Barizo
 
 ## Screenshots 
 
