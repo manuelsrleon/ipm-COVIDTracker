@@ -1,4 +1,4 @@
-# ipm-COVIDTracker
+# COVIDTracker
 This was an assignment made in academic year 21-22 as part of a subject called Interfaces Persona Máquina (user interfaces). It is the first part of a **three-piece assignment** consisting on three separate applications (desktop, mobile and web) which **revolve around the querying, logging and searching** of COVID contacts. Of course, this was done during the 2020 COVID-19 pandemic.
 
 Design files for all of the three projects are available on [Figma](https://www.figma.com/file/y2LgbOJngQ7VbYIJWtJ40b/COVIDLog?node-id=0%3A1)
